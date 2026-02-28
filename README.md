@@ -1,6 +1,6 @@
 ﻿<!--   BANNER   -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Leondo%20Admiral&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,70:0d1b4b,100:16213e&height=230&section=header&text=Leondo%20Admiral&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 </p>
 
 <!--   TYPING ANIMATION   -->
@@ -25,7 +25,6 @@
 ---
 
 <!--   ABOUT ME   -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="margin-left:20px"/>
 
 ## About Me
 
@@ -92,16 +91,16 @@ University: University Of North Sumatera
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=admiralll15&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=2C9EF7&icon_color=2C9EF7&text_color=ffffff" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admiralll15&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=2C9EF7&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=admiralll15&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0a0a1a&title_color=A855F7&icon_color=2C9EF7&text_color=e0e0ff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admiralll15&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0a0a1a&title_color=A855F7&text_color=e0e0ff" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=admiralll15&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=2C9EF7&fire=FF6B6B&currStreakLabel=2C9EF7" width="70%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=admiralll15&theme=chartreuse-dark&hide_border=true&background=0a0a1a&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=2C9EF7&dates=e0e0ff" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=admiralll15&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=admiralll15&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 </p>
 
 ---
@@ -172,6 +171,5 @@ University: University Of North Sumatera
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,30:0d1b4b,70:1a0533,100:0d0221&height=120&section=footer" width="100%"/>
 </p>
-
