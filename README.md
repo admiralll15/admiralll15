@@ -27,49 +27,54 @@
 <!--   ABOUT ME   -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="margin-left:20px"/>
 
-##  About Me
+## About Me
 
 ```yaml
-Name        : Admiral Raditya
-Username    : admiralll15
-Location    : Indonesia 
-Company     : PT. Pertamina
-Role        : Software & Cybersecurity Engineer
-Learning    : Cybersecurity, Ethical Hacking, DevSecOps
-Hobbies     : Coding  CTF Challenges  Reading  Gaming
+Name: Admiral Raditya
+Username: admiralll15
+Location: Indonesia
+Company: PT. Pertamina
+Role: Software & Cybersecurity Engineer
+Learning: Cybersecurity, Ethical Hacking, DevSecOps
+Hobbies: Coding  CTF Challenges  Reading  Gaming
 ```
 
-###  What I'm Up To
+### What I'm Up To
 
--  Currently working at **PT. Pertamina** on critical infrastructure systems
--  Deep-diving into **CyberSecurity**  from pentesting to secure design
--  Open to collaborate on **Government** & **open-source** projects
--  Sharpening skills in **Ethical Hacking**, **Networking**, and **DevSecOps**
--  Fun fact: I debug best at 2AM with Lo-Fi music 
+- Currently working at **PT. Pertamina** on critical infrastructure systems
+- Deep-diving into **CyberSecurity** from pentesting to secure design
+- Open to collaborate on **Government** & **open-source** projects
+- Sharpening skills in **Ethical Hacking**, **Networking**, and **DevSecOps**
+- Fun fact: I debug best at 2AM with Lo-Fi music
 
 <br clear="right"/>
 
 ---
 
 <!--   TECH STACK   -->
-##  Tech Stack & Tools
 
-###  Languages
+## Tech Stack & Tools
+
+### Languages
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,php,python,bash&theme=dark" />
 </p>
 
-###  Web & Frameworks
+### Web & Frameworks
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,alpinejs,laravel,mysql&theme=dark" />
 </p>
 
-###  Tools & DevOps
+### Tools & DevOps
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,kali&theme=dark" />
 </p>
 
-###  Cybersecurity Arsenal
+### Cybersecurity Arsenal
+
 <p align="left">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white"/>
@@ -79,7 +84,8 @@ Hobbies     : Coding  CTF Challenges  Reading  Gaming
   <img src="https://img.shields.io/badge/Nessus-00B4C8?style=for-the-badge&logo=tenable&logoColor=white"/>
 </p>
 
-###  More Badges
+### More Badges
+
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -92,7 +98,8 @@ Hobbies     : Coding  CTF Challenges  Reading  Gaming
 ---
 
 <!--   GITHUB STATS   -->
-##  GitHub Stats
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=admiralll15&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=2C9EF7&icon_color=2C9EF7&text_color=ffffff" height="180"/>
@@ -114,7 +121,8 @@ Hobbies     : Coding  CTF Challenges  Reading  Gaming
 ---
 
 <!--   SNAKE   -->
-##  Contribution Snake
+
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -127,24 +135,22 @@ Hobbies     : Coding  CTF Challenges  Reading  Gaming
 ---
 
 <!--   PACMAN   -->
-##  PAC-MAN Eats My Contributions
+
+## PAC-MAN Eats My Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893b9decc6b2/images/marquee.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/admiralll15/admiralll15/output/pacman-contribution-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/admiralll15/admiralll15/output/pacman-contribution.svg" />
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/admiralll15/admiralll15/output/pacman-contribution-dark.svg" width="100%"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/admiralll15/admiralll15/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="100%"/>
 </p>
 
 ---
 
 <!--   CONNECT   -->
-##  Connect With Me
+
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/admiralll15">
