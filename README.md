@@ -15,8 +15,8 @@
   <a href="https://github.com/admiralll15">
     <img src="https://img.shields.io/github/followers/admiralll15?label=Followers&style=for-the-badge&logo=github&color=2c9ef7&labelColor=0d1117" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-CyberSecurity-red?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Works%20At-PT.Pertamina-009A44?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Focus-Management-red?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Study%20At-UniversityOfNorthSumatera-009A44?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Collab-brightgreen?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" />
 </p>
 
@@ -151,13 +151,13 @@ University: University Of North Sumatera
 ## Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/admiralll15">
+  <a href="https://linkedin.com/in/Leondo Admiral">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/admiralll15">
+  <a href="https://instagram.com/_leondop">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="mailto:admiralll15@gmail.com">
+  <a href="mailto:admiralpurba2109@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/admiralll15">
@@ -183,4 +183,4 @@ University: University Of North Sumatera
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 </p>
 
-<!-- Crafted with  by Admiral Raditya | admiralll15 -->
+<!-- Crafted with  by Leondo Admiral Purba | admiralll15 -->
