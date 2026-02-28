@@ -1,6 +1,6 @@
 ﻿<!--   BANNER   -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Admiral%20Raditya&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Full-Stack%20Dev%20%7C%20Pertamina%20Engineer&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Leondo%20Admiral&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 </p>
 
 <!--   TYPING ANIMATION   -->
@@ -38,10 +38,10 @@ University: University Of North Sumatera
 
 ### What I'm Up To
 
-- Currently studying at **UniversityOfNorthSumatera** on critical infrastructure systems
+- Currently studying at **UniversityOfNorthSumatera**
 - Deep-diving into **CyberSecurity** from pentesting to secure design
 - Open to collaborate on **Government** & **open-source** projects
-<br clear="right"/>
+  <br clear="right"/>
 
 ---
 
@@ -71,11 +71,7 @@ University: University Of North Sumatera
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nessus-00B4C8?style=for-the-badge&logo=tenable&logoColor=white"/>
 </p>
 
 ### More Badges
@@ -102,10 +98,6 @@ University: University Of North Sumatera
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=admiralll15&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=2C9EF7&fire=FF6B6B&currStreakLabel=2C9EF7" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=admiralll15&bg_color=0d1117&color=2C9EF7&line=2C9EF7&point=ffffff&area=true&hide_border=true&area_color=1a3a5c" width="95%"/>
 </p>
 
 <p align="center">
