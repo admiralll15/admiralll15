@@ -30,23 +30,17 @@
 ## About Me
 
 ```yaml
-Name: Admiral Raditya
+Name: Leondo Admiral Purba
 Username: admiralll15
 Location: Indonesia
-Company: PT. Pertamina
-Role: Software & Cybersecurity Engineer
-Learning: Cybersecurity, Ethical Hacking, DevSecOps
-Hobbies: Coding  CTF Challenges  Reading  Gaming
+University: University Of North Sumatera
 ```
 
 ### What I'm Up To
 
-- Currently working at **PT. Pertamina** on critical infrastructure systems
+- Currently studying at **UniversityOfNorthSumatera** on critical infrastructure systems
 - Deep-diving into **CyberSecurity** from pentesting to secure design
 - Open to collaborate on **Government** & **open-source** projects
-- Sharpening skills in **Ethical Hacking**, **Networking**, and **DevSecOps**
-- Fun fact: I debug best at 2AM with Lo-Fi music
-
 <br clear="right"/>
 
 ---
@@ -70,7 +64,7 @@ Hobbies: Coding  CTF Challenges  Reading  Gaming
 ### Tools & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,kali&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
 </p>
 
 ### Cybersecurity Arsenal
