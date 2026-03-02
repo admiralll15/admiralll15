@@ -39,43 +39,43 @@ I am a technology student from the **University of North Sumatera**, interested 
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-3b82f6?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3b82f6?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3b82f6?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-3b82f6?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-3b82f6?style=flat-square&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-475569?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-475569?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-475569?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-475569?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-475569?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-475569?style=flat-square&logo=gnubash&logoColor=white)
 
 **Web & Frameworks**
 
-![HTML](https://img.shields.io/badge/HTML-3b82f6?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3b82f6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3b82f6?style=flat-square&logo=javascript&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-3b82f6?style=flat-square&logo=alpinedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-3b82f6?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3b82f6?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-475569?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-475569?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-475569?style=flat-square&logo=javascript&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-475569?style=flat-square&logo=alpinedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-475569?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-475569?style=flat-square&logo=mysql&logoColor=white)
 
 **Tools & Security**
 
-![Linux](https://img.shields.io/badge/Linux-3b82f6?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3b82f6?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-3b82f6?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-3b82f6?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-3b82f6?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-3b82f6?style=flat-square&logo=burpsuite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-475569?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-475569?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-475569?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-475569?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-475569?style=flat-square&logo=burpsuite&logoColor=white)
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=admiralll15&show_icons=true&hide_border=true&title_color=1e40af&text_color=374151&icon_color=3b82f6&bg_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=admiralll15&show_icons=true&hide_border=true&title_color=0f172a&text_color=374151&icon_color=475569&bg_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admiralll15&layout=compact&hide_border=true&title_color=1e40af&text_color=374151&bg_color=ffffff&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admiralll15&layout=compact&hide_border=true&title_color=0f172a&text_color=374151&bg_color=ffffff&include_all_commits=true&count_private=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=admiralll15&hide_border=true&background=ffffff&ring=3b82f6&fire=3b82f6&currStreakLabel=1e40af&sideLabels=374151&dates=9CA3AF&currStreakNum=1e40af&sideNums=1e40af" width="60%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=admiralll15&hide_border=true&background=ffffff&ring=475569&fire=475569&currStreakLabel=0f172a&sideLabels=374151&dates=9CA3AF&currStreakNum=0f172a&sideNums=0f172a" width="60%"/>
 </p>
 
 <p align="center">
@@ -106,11 +106,11 @@ I am a technology student from the **University of North Sumatera**, interested 
 
 ### Connect
 
-<a href="https://instagram.com/_leondop"><img src="https://img.shields.io/badge/Instagram-_leondop-3b82f6?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/_leondop"><img src="https://img.shields.io/badge/Instagram-_leondop-475569?style=flat-square&logo=instagram&logoColor=white"/></a>
 &thinsp;
-<a href="mailto:admiralpurba2109@gmail.com"><img src="https://img.shields.io/badge/Email-admiralpurba2109%40gmail.com-3b82f6?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:admiralpurba2109@gmail.com"><img src="https://img.shields.io/badge/Email-admiralpurba2109%40gmail.com-475569?style=flat-square&logo=gmail&logoColor=white"/></a>
 &thinsp;
-<a href="https://github.com/admiralll15"><img src="https://img.shields.io/badge/GitHub-admiralll15-3b82f6?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/admiralll15"><img src="https://img.shields.io/badge/GitHub-admiralll15-475569?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br/>
 <br/>
