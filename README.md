@@ -6,13 +6,11 @@
 <h1 align="center">Leondo Admiral Purba</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&pause=2000&color=6B7280&center=true&vCenter=true&width=480&lines=Full-Stack+Developer+%C2%B7+Cybersecurity+Learner+%C2%B7+USU" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&pause=2000&color=6B7280&center=true&vCenter=true&width=480&lines=Full-Stack+Developer+%C2%B7+Cybersecurity+Learner+%C2%B7" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/admiralll15"><img src="https://img.shields.io/github/followers/admiralll15?label=followers&style=flat-square&logo=github&color=6B7280&labelColor=F3F4F6"/></a>
-  &thinsp;
-  <img src="https://img.shields.io/badge/University%20of%20North%20Sumatera-F3F4F6?style=flat-square&color=6B7280"/>
   &thinsp;
   <img src="https://komarev.com/ghpvc/?username=admiralll15&label=views&style=flat-square&color=6B7280&labelColor=F3F4F6"/>
 </p>
