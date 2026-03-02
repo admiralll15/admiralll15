@@ -25,13 +25,13 @@
 
 I am a technology student from the **University of North Sumatera**, interested in full-stack web development and cybersecurity. I enjoy solving problems through clean code and constantly learning new things.
 
-| | |
-|---|---|
-|  Location | Medan, Indonesia |
-|  University | University of North Sumatera |
-|  Role | Full-Stack Developer & Cybersecurity Learner |
-|  Email | admiralpurba2109@gmail.com |
-|  Interests | Web Development  Cybersecurity  Open Source |
+|            |                                              |
+| ---------- | -------------------------------------------- |
+| Location   | Medan, Indonesia                             |
+| University | University of North Sumatera                 |
+| Role       | Full-Stack Developer & Cybersecurity Learner |
+| Email      | admiralpurba2109@gmail.com                   |
+| Interests  | Web Development Cybersecurity Open Source    |
 
 ---
 
@@ -69,13 +69,13 @@ I am a technology student from the **University of North Sumatera**, interested 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=admiralll15&show_icons=true&hide_border=true&title_color=0f172a&text_color=374151&icon_color=475569&bg_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=admiralll15&show_icons=true&hide_border=true&title_color=0f172a&text_color=374151&icon_color=475569&bg_color=00000000&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admiralll15&layout=compact&hide_border=true&title_color=0f172a&text_color=374151&bg_color=ffffff&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admiralll15&layout=compact&hide_border=true&title_color=0f172a&text_color=374151&bg_color=00000000&include_all_commits=true&count_private=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=admiralll15&hide_border=true&background=ffffff&ring=475569&fire=475569&currStreakLabel=0f172a&sideLabels=374151&dates=9CA3AF&currStreakNum=0f172a&sideNums=0f172a" width="60%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=admiralll15&hide_border=true&background=00000000&ring=475569&fire=475569&currStreakLabel=0f172a&sideLabels=374151&dates=9CA3AF&currStreakNum=0f172a&sideNums=0f172a" width="60%"/>
 </p>
 
 <p align="center">
