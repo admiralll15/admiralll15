@@ -1,130 +1,98 @@
-﻿<!--   BANNER   -->
+﻿<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,70:0d1b4b,100:16213e&height=230&section=header&text=Leondo%20Admiral&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Leondo%20Admiral%20Purba&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=Technology%20Enthusiast%20%E2%80%94%20University%20of%20North%20Sumatera&descSize=15&descAlignY=68&animation=fadeIn" width="100%"/>
 </p>
 
-<!--   TYPING ANIMATION   -->
+<!-- TYPING -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9EF7&center=true&vCenter=true&width=600&lines=+Hey+there!+I'm+Leondo+Admiral;+Software+%26+Mining+Engineer;+Ethical+Coding+Enthusiast;+Always+Learning+Something+New;+Let's+Build+Something+Awesome!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=64748B&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cybersecurity+Learner;Open+Source+Enthusiast;Always+Learning%2C+Always+Building." alt="Typing SVG"/>
 </p>
 
-<!--   BADGES ROW   -->
 <p align="center">
-  <a href="https://github.com/admiralll15">
-    <img src="https://img.shields.io/github/followers/admiralll15?label=Followers&style=for-the-badge&logo=github&color=2c9ef7&labelColor=0d1117" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Management-red?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Study%20At-UniversityOfNorthSumatera-009A44?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Collab-brightgreen?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/admiralll15?label=followers&style=flat-square&color=64748b&labelColor=f1f5f9&logo=github" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=admiralll15&label=profile+views&style=flat-square&color=64748b&labelColor=f1f5f9" />
 </p>
 
 <br/>
 
 ---
 
-<!--   ABOUT ME   -->
+## About
 
-## About Me
+Hi, I am **Leondo Admiral Purba** — a technology enthusiast currently studying Informatics at the **University of North Sumatera**. I have a strong interest in full-stack development and cybersecurity, and I enjoy building things that solve real problems.
 
-```yaml
-Name: Leondo Admiral Purba
-Username: admiralll15
-Location: Indonesia
-University: University Of North Sumatera
+```text
+📍  Medan, Indonesia
+🎓  University of North Sumatera
+💡  Interests   →  Full-Stack Dev · Cybersecurity · Open Source
+📬  Contact     →  admiralpurba2109@gmail.com
 ```
 
-### What I'm Up To
-
-- Currently studying at **UniversityOfNorthSumatera**
-- Deep-diving into **CyberSecurity** from pentesting to secure design
-- Open to collaborate on **Government** & **open-source** projects
-  <br clear="right"/>
-
 ---
 
-<!--   TECH STACK   -->
+## Tech Stack
 
-## Tech Stack & Tools
+**Languages**
 
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,python,bash&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-555555?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-555555?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-555555?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-555555?style=flat-square&logo=gnubash&logoColor=white"/>
 </p>
 
-### Web & Frameworks
+**Web & Frameworks**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,alpinejs,laravel,mysql&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/HTML-555555?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-555555?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alpine.js-555555?style=flat-square&logo=alpinedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-555555?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-555555?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-### Tools & DevOps
+**Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
-</p>
-
-### Cybersecurity Arsenal
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-</p>
-
-### More Badges
-
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0"/>
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-555555?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-555555?style=flat-square&logo=kalilinux&logoColor=white"/>
 </p>
 
 ---
-
-<!--   GITHUB STATS   -->
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=admiralll15&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0a0a1a&title_color=A855F7&icon_color=2C9EF7&text_color=e0e0ff" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admiralll15&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0a0a1a&title_color=A855F7&text_color=e0e0ff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=admiralll15&show_icons=true&hide_border=true&title_color=334155&text_color=64748b&icon_color=94a3b8&bg_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admiralll15&layout=compact&hide_border=true&title_color=334155&text_color=64748b&bg_color=ffffff&include_all_commits=true&count_private=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=admiralll15&theme=chartreuse-dark&hide_border=true&background=0a0a1a&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=2C9EF7&dates=e0e0ff" width="70%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=admiralll15&hide_border=true&background=ffffff&ring=94a3b8&fire=94a3b8&currStreakLabel=334155&sideLabels=64748b&dates=94a3b8&currStreakNum=334155&sideNums=334155" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=admiralll15&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=admiralll15&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
 </p>
 
 ---
 
-<!--   SNAKE   -->
-
-## Contribution Snake
+## Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/admiralll15/admiralll15/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/admiralll15/admiralll15/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/admiralll15/admiralll15/output/github-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/admiralll15/admiralll15/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/admiralll15/admiralll15/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/admiralll15/admiralll15/output/github-snake.svg" width="100%"/>
   </picture>
-</p>
-
----
-
-<!--   PACMAN   -->
-
-## PAC-MAN Eats My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893b9decc6b2/images/marquee.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -137,39 +105,24 @@ University: University Of North Sumatera
 
 ---
 
-<!--   CONNECT   -->
+## Connect
 
-## Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/Leondo Admiral">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p>
   <a href="https://instagram.com/_leondop">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-_leondop-555555?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:admiralpurba2109@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-admiralpurba2109@gmail.com-555555?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://github.com/admiralll15">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-admiralll15-555555?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
-
-<!--   FOOTER   -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+quieter+you+become%2C+the+more+you+are+able+to+hear.&author=Kali+Linux" width="80%"/>
-</p>
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=admiralll15&label=Profile+Views&color=2c9ef7&style=for-the-badge" />
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=admiralll15&icon=5&color=1" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,30:0d1b4b,70:1a0533,100:0d0221&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" width="100%"/>
 </p>
